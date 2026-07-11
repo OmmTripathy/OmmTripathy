@@ -23,9 +23,22 @@
 - 🏗️ Building **RepoMind** — an AI code-intelligence & RAG platform that lets you *chat with an entire repository* (FastAPI · ChromaDB · Groq/Qwen · RAGAS-evaluated)
 - 💼 Backend Developer @ **Nexus Hub** — shipped geospatial tracking + Redis OTP auth at scale
 - 🤖 Deep into **LangChain, RAG pipelines, and LLM orchestration** for intelligent document and code systems
-- 📚 Actively learning: **MLOps · Automation · Networks & Security**
 - 🧠 Sharpening DSA on LeetCode for placement season
 - 🎯 Actively interviewing for **Full-Stack / AI-ML / SDE** roles
+
+---
+
+## 👋 Who Am I?
+
+I'm a third-year CS student at **ITER, SOA University** (CGPA **9.93/10**), and I spend most of my time turning LLM/AI research into things that actually run in production — not just notebooks.
+
+I've worked as a **Backend Developer at Nexus Hub**, built and shipped real-time systems at scale, and I'm currently deep in **RAG pipelines, LLM orchestration, and MLOps**. I'm graduating into placement season 2028 and actively looking for **Full-Stack / AI-ML / SDE** roles at product-based companies.
+
+## 🧩 What I Build
+
+- **AI-powered systems** — RAG pipelines, LLM-grounded Q&A, code-intelligence tools that answer from real context instead of hallucinating
+- **Scalable backends** — REST APIs, geospatial services, real-time systems handling concurrent load
+- **End-to-end ML products** — from model training to deployment, not just research
 
 ---
 
@@ -74,6 +87,16 @@
 | **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)|
 
+---
+ 
+## 📈 2026 Goals
+ 
+- Build RepoMind into a production-ready AI platform
+- Solve 250+ LeetCode problems
+- Contribute to open source
+- Learn System Design
+- Publish technical blogs
+- Be placement-ready for 2028
 ---
 
 <div align="center">
