@@ -117,7 +117,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-&nbsp; [GitHub](https://github.com/OmmTripathy/CampusCommute)
+&nbsp; [GitHub]([https://github.com/OmmTripathy/CampusCommute](https://github.com/nexushuborg/Nexus-E3))
 
 ---
 
