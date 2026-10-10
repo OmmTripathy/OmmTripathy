@@ -1,108 +1,152 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Omm+Tripathy+%F0%9F%91%8B;I+build+AI+systems+that+actually+ship;Full-Stack+%2B+LLM%2FRAG+%2B+MLOps;Open+to+SDE+%2F+AI-ML+Roles+%E2%80%94+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Omm+Tripathy+%F0%9F%91%8B;Backend+Developer+%7C+CS+Student;Building+AI%2FML+%26+Software+Projects;Open+to+SDE+%26+AI%2FML+Opportunities" alt="Typing SVG" />
 
-### 🎯 CS @ ITER, SOA University &nbsp;|&nbsp; CGPA **9.93/10** &nbsp;|&nbsp; Placement 2028
+### 🎓 CS @ ITER, SOA University | CGPA **9.95/10** | Class of 2028
 
-**I build full-stack systems, AI/ML pipelines, and turn LLM research into production systems.** <br/>
-**Currently targeting <strong>Full-Stack · AI/ML · SDE</strong> roles at product-based companies.**
+**I build backend systems, explore AI/ML, and solve problems through code.**
+
+Interested in **Software Development · Backend Engineering · AI/ML**
 
 <p>
-  <a href="https://linkedin.com/in/ommtripathy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/AlgoOmm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:ommtripathy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/OmmTripathy"><img src="https://komarev.com/ghpvc/?username=OmmTripathy&style=for-the-badge&color=2196F3" alt="profile views"/></a>
+<a href="https://linkedin.com/in/ommtripathy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/OmmTripathy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/AlgoOmm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:ommtripathy07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ 30-Second Pitch
+## 👋 About Me
 
-- 🏗️ Building **RepoMind** — an AI code-intelligence & RAG platform that lets you *chat with an entire repository* (FastAPI · ChromaDB · Groq/Qwen · RAGAS-evaluated)
-- 💼 Backend Developer @ **Nexus Hub** — shipped geospatial tracking + Redis OTP auth at scale
-- 🤖 Deep into **LangChain, RAG pipelines, and LLM orchestration** for intelligent document and code systems
-- 🧠 Sharpening DSA on LeetCode for placement season
-- 🎯 Actively interviewing for **Full-Stack / AI-ML / SDE** roles
+I'm a third-year Computer Science student at **ITER, SOA University**, with a strong interest in software development, backend engineering, and AI/ML.
 
----
-
-## 👋 Who Am I?
-
-I'm a third-year CS student at **ITER, SOA University** (CGPA **9.93/10**), and I spend most of my time turning LLM/AI research into things that actually run in production — not just notebooks.
-
-I've worked as a **Backend Developer at Nexus Hub**, built and shipped real-time systems at scale, and I'm currently deep in **RAG pipelines, LLM orchestration, and MLOps**. I'm graduating into placement season 2028 and actively looking for **Full-Stack / AI-ML / SDE** roles at product-based companies.
-
-## 🧩 What I Build
-
-- **AI-powered systems** — RAG pipelines, LLM-grounded Q&A, code-intelligence tools that answer from real context instead of hallucinating
-- **Scalable backends** — REST APIs, geospatial services, real-time systems handling concurrent load
-- **End-to-end ML products** — from model training to deployment, not just research
+- 💻 Build backend services and REST APIs using JavaScript, Node.js, Express.js, and FastAPI.
+- 🚌 Worked on real-time campus bus tracking and location-based services.
+- 🤖 Explore RAG pipelines, LLMs, and machine learning applications.
+- 🧠 Practice Data Structures and Algorithms on LeetCode.
+- 🏆 Ranked among the top 50 teams in an SOA ideathon.
+- 🎯 Preparing for software engineering and AI/ML opportunities.
 
 ---
 
-## 🚀 Projects That Prove It
+## 💼 Experience
 
-### 🧠 RepoMind — AI Code Intelligence & RAG Platform `[In Progress]`
-**Ask any question about a codebase and get grounded, accurate answers — not hallucinations.**
-- Full RAG pipeline: repo ingestion → structural (not token) chunking → vector search → LLM generation, evaluated with **RAGAS** and tracked in **MLflow**
-- Backend built on **FastAPI** with **ChromaDB** for vector storage and **Sentence Transformers** for embeddings; **Groq/Qwen** for fast, low-cost inference
-- Ships with auth, multi-workspace support, and a modular source-services layer designed for real-world scale
+### Backend Developer — Nexus Hub (Tech Club)
 
-`Python` `FastAPI` `ChromaDB` `LangChain` `RAGAS` `MLflow` — [GitHub](https://github.com/OmmTripathy) *(launching soon)*
+*December 2025 – April 2026*
 
-### 🚌 CampusCommute — Real-Time Bus Tracking at Scale
-**Sub-100ms location queries for live campus transport, serving concurrent users in real time.**
-- MongoDB geospatial indexes for proximity queries under 100ms
-- Node.js + Socket.IO backend handling concurrent coordinate streams and live ETA computation
-- JWT + bcrypt-secured APIs, containerized with Docker, deployed via GitHub Actions CI/CD
+- Worked in a team of six on a live bus-tracking application.
+- Designed MongoDB collections to store and retrieve live location data.
+- Developed backend APIs for real-time location updates, arrival-time prediction, and secure authentication.
+- Implemented OTP verification using Redis.
+- Evaluated multiple route-calculation approaches and selected the option that improved prediction accuracy by approximately 15%.
 
-`Node.js` `MongoDB` `Socket.IO` `Docker` — [GitHub](https://github.com/nexushuborg/Nexus-E3)
-
-### 🤖 RAG Chatbot — Talk to Any PDF
-**Upload a document, ask questions, get hallucination-resistant answers backed by real context.**
-- End-to-end pipeline: PDF ingestion → chunking → HuggingFace embeddings → ChromaDB retrieval → Mistral AI generation
-- Deployed as a clean, non-technical-user-friendly Streamlit app
-
-`Python` `LangChain` `ChromaDB` `Streamlit` — [GitHub](https://github.com/OmmTripathy/RAG_Chatbot)
-
-### ❤️ Heart Disease Risk Predictor — Live ML App
-**Clinical risk prediction, live in your browser, zero setup.**
-- KNN classifier with StandardScaler preprocessing on structured clinical data
-- Shipped and deployed — try it right now
-
-`Python` `scikit-learn` `Streamlit` — [GitHub](https://github.com/OmmTripathy/HeartDisease-PredictionApp) · [Live Demo](https://heartdisease-predictionapp.streamlit.app/)
+**Technologies:** Node.js · Express.js · MongoDB · Redis · REST APIs · JWT
 
 ---
 
-## 🛠️ Stack
+## 🚀 Featured Project
 
-| | |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)|
+### 🚌 CampusCommute — Real-Time Campus Bus Tracking
+
+A bus-tracking application that helps students check bus locations, monitor movement, and estimate arrival times.
+
+- Built backend APIs for bus tracking and location updates.
+- Used Socket.IO to deliver live bus-location updates without requiring page refreshes.
+- Used MongoDB geospatial queries to find nearby buses and stops.
+- Implemented arrival-time prediction to help students plan their journeys.
+
+**Tech stack:** `Node.js` `MongoDB` `Socket.IO` `Docker`
+
+🔗 [View Project on GitHub](https://github.com/nexushuborg/Nexus-E3)
 
 ---
- 
-## 📈 2026 Goals
- 
-- Build RepoMind into a production-ready AI platform
-- Solve 250+ LeetCode problems
-- Contribute to open source
-- Learn System Design
-- Publish technical blogs
-- Be placement-ready for 2028
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge" alt="RAG Pipelines"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**ITER, SOA University**  
+B.Tech in Computer Science and Engineering
+
+- **CGPA:** 9.95/10
+- **Expected Graduation:** June 2028
+- **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Ranked among the **top 50 teams out of 450+ teams** in the SOA Ideathon.
+- 💻 Solved **130+ problems on LeetCode**.
+- 🤖 Completed the **Google AI Agents Intensive Program**.
+
+---
+
+## 📈 Current Goals
+
+- Strengthen DSA and problem-solving skills for coding interviews.
+- Build reliable backend applications and REST APIs.
+- Develop practical AI/ML and RAG-based projects.
+- Improve knowledge of system design, databases, and deployment.
+- Contribute to open-source projects and prepare for 2028 placements.
+
 ---
 
 <div align="center">
 
-### 📬 Let's talk — <a href="mailto:ommtripathy07@gmail.com">ommtripathy07@gmail.com</a>
+### 📬 Let's Connect
 
-*Open to Full-Stack, AI/ML, and SDE roles. If you're hiring for 2027 and 2028, I'd love to chat.*
+**[LinkedIn](https://linkedin.com/in/ommtripathy) · [GitHub](https://github.com/OmmTripathy) · [LeetCode](https://leetcode.com/AlgoOmm)**
+
+<a href="mailto:ommtripathy07@gmail.com">ommtripathy07@gmail.com</a>
+
+*Always learning, building, and improving.*
 
 </div>
